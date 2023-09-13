@@ -25,6 +25,7 @@ public class LoginPage extends BusinessMethod {
 		driver.findElement(txtPassword).sendKeys("Hiiminayat@786");
 		driver.findElement(btnLogin).click();
 //		Ayya kya ba wa 
+//		Ab ya si wa ya si wa yoch karne ka 
 		
 		
 	}
